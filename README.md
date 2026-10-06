@@ -219,6 +219,6 @@ Write here
 
 <div align="center">
 
-*Project completed as part of the EFREI Paris engineering mobility program at the University of California Irvine (Fall 2026 — Promotion of 2029)*
+*Project completed as part of the EFREI Paris mobility program at the University of California Irvine (Fall 2026 — Promotion of 2029)*
 
 </div>
