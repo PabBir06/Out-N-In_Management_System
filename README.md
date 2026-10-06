@@ -2,7 +2,7 @@
 
 # Java Programming — Group 1
 
-**Project EFREI I1 · FALL 2026 · Java Proramming**
+**Project EFREI I1 · UCI FALL 2026 · Java Proramming**
 
 ![Java](https://img.shields.io/badge/Java-27%2B-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![License](https://img.shields.io/badge/Licence-EFREI-orange?style=for-the-badge)
@@ -56,7 +56,7 @@ java-project-g1-m4/
 
 ### Prerequisites
 
-- Java JDK**v27.0.0**
+- Java JDK **v27.0.0** or superior
 
 
 
@@ -213,12 +213,12 @@ Write here
 
 ## 📚 Références
 
-- Classes and Lectures *Java Programming* — EFREI P2 2025/2026
+- Classes and Lectures *Java Programming* — UCI FALL 2026
 
 ---
 
 <div align="center">
 
-*Project completed as part of the EFREI Paris engineering mobility program (Fall 2026 — Promotion of 2029)*
+*Project completed as part of the EFREI Paris engineering mobility program at the University of California Irvine (Fall 2026 — Promotion of 2029)*
 
 </div>
