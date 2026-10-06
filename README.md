@@ -4,7 +4,7 @@
 
 **Project EFREI I1 · FALL 2026 · Java Proramming**
 
-![Java](![Java](https://img.shields.io/badge/Java-27%2B-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white))
+![Java](https://img.shields.io/badge/Java-27%2B-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![License](https://img.shields.io/badge/Licence-EFREI-orange?style=for-the-badge)
 
 </div>
