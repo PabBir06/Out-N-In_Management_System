@@ -1,12 +1,10 @@
 <div align="center">
 
-# Automates Finis — Équipe 4
+# Java Programming — Group 1
 
-**Projet EFREI P2 · 2025/2026 · Automates Finis et Expressions Rationnelles**
+**Project EFREI I1 · FALL 2026 · Java Proramming**
 
-![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Colorama](https://img.shields.io/badge/Colorama-0.4%2B-brightgreen?style=for-the-badge)
-![PrettyTable](https://img.shields.io/badge/PrettyTable-3.0%2B-blue?style=for-the-badge)
+![Java](![Java](https://img.shields.io/badge/Java-27%2B-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white))
 ![License](https://img.shields.io/badge/Licence-EFREI-orange?style=for-the-badge)
 
 </div>
