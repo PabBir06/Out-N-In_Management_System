@@ -36,7 +36,7 @@ The goal is to handle these errors cleanly and predictably, without crashing the
 | Aaron **JEHCHI** | [@PabBir06](https://github.com/PabBir06) |
 | Camille **PICOU** | [@PabBir06](https://github.com/PabBir06) |
 
-> 🔗 Github Repository : [github.com/PabBir06/java-project-g1-m4](https://github.com/PabBir06/java-project-g1-m4)
+> 🔗 Github Repository : [github.com/PabBir06/java-project-g2](https://github.com/PabBir06/java-project-g1-m4)
 
 ---
 
