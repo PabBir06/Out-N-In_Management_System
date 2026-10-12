@@ -43,7 +43,7 @@ The goal is to handle these errors cleanly and predictably, without crashing the
 ## 📁 Project Structure
 
 ```
-java-project-g1-m4/
+java-project-g2/
 │
 ├──                       # Comment
 │
