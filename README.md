@@ -13,6 +13,7 @@
 
 ## 📖 Presentation
 
+[OUTDATED]
 This project is a Java banking application that processes three types of operations: **deposits**, **withdrawals**, and **transfers**.
 
 Not every transaction is valid. An operation can fail for several reasons:
