@@ -1,6 +1,6 @@
 <div align="center">
 
-# Java Programming — Group 2 — "Out-n-In"
+# Java Programming — Group 2 — "Out-n-In Management System"
 
 **Project EFREI I1 · UCI FALL 2026 · Java Proramming**
 
@@ -28,7 +28,7 @@ Out-n-In Management System is a Java application designed to manage the daily op
 | Aaron **JEHCHI** | [@PabBir06](https://github.com/PabBir06) |
 | Camille **PICOU** | [@PabBir06](https://github.com/PabBir06) |
 
-> 🔗 Github Repository : [github.com/PabBir06/java-project-g2](https://github.com/PabBir06/java-project-g1-m4)
+> 🔗 Github Repository : [github.com/PabBir06/Out-N-In_Management_System](https://github.com/PabBir06/Out-N-In_Management_System)
 
 ---
 
