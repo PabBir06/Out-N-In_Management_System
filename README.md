@@ -13,16 +13,7 @@
 
 ## 📖 Presentation
 
-[OUTDATED]
-This project is a Java banking application that processes three types of operations: **deposits**, **withdrawals**, and **transfers**.
-
-Not every transaction is valid. An operation can fail for several reasons:
-- an **invalid amount** (negative or zero);
-- **insufficient funds** for a withdrawal or a transfer;
-- **bad user input** (text instead of a number, nonexistent account,
-  empty field).
-
-The goal is to handle these errors cleanly and predictably, without crashing the program and without corrupting the state of the accounts.
+Out-n-In Management System is a Java application designed to manage the daily operations of a fictional restaurant named “Out-n-In”. Its main objective is to centralize the handling of three core areas of the business (food stock, staff and subscribed customers, and menus) within a single, easy-to-use program, while putting into practice the fundamentals of Java development. The application provides a graphical interface built with Java Swing, through which users can display, add, modify, and delete one or several entities at once in each area. The project is built on object-oriented programming principles, with clearly structured classes modeling each entity, and it relies on a SQL database queried from Java to store and retrieve data persistently. Robust exception handling ensures that errors, such as invalid inputs or failed database operations, are caught and reported clearly to the user rather than crashing the program.
 
 
 ---
