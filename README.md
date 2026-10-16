@@ -23,9 +23,9 @@ Out-n-In Management System is a Java application designed to manage the daily op
 | Nom | GitHub |
 |-----|--------|
 | Pablo **BIRAN** | [@PabBir06](https://github.com/PabBir06) |
-| Wacim **HAMDI** | [@PabBir06](https://github.com/PabBir06) |
+| Wacim **HAMDI** | [@wacimH](https://github.com/wacimH) |
 | Sacha **LEVI** | [@PabBir06](https://github.com/PabBir06) |
-| Aaron **JEHCHI** | [@PabBir06](https://github.com/PabBir06) |
+| Aaron **JEHCHI** | [@Joeeeemamaa](https://github.com/Joeeeemamaa) |
 | Camille **PICOU** | [@PabBir06](https://github.com/PabBir06) |
 
 > 🔗 Github Repository : [github.com/PabBir06/Out-N-In_Management_System](https://github.com/PabBir06/Out-N-In_Management_System)
