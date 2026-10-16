@@ -2,7 +2,7 @@
 
 # Java Programming — Group 2 — "Out-n-In Management System"
 
-**Project EFREI I1 · UCI FALL 2026 · Java Proramming**
+**Project EFREI I1 · UCI FALL 2026 · Java Programming**
 
 ![Java](https://img.shields.io/badge/Java-27%2B-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![License](https://img.shields.io/badge/Licence-EFREI-orange?style=for-the-badge)
@@ -35,7 +35,7 @@ Out-n-In Management System is a Java application designed to manage the daily op
 ## 📁 Project Structure
 
 ```
-java-project-g2/
+Out-N-In_Management_System/
 │
 ├──                       # Comment
 │
