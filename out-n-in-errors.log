@@ -1,0 +1,12 @@
+oct. 18, 2026 4:57:20 PM ErrorHandler show
+WARNING: java.sql.SQLSyntaxErrorException: Unknown column 'di.quantity_required' in 'field list'
+oct. 18, 2026 4:57:20 PM ErrorHandler show
+WARNING: SQL error: Unknown column 'di.quantity_required' in 'field list'
+oct. 18, 2026 4:57:23 PM ErrorHandler show
+WARNING: java.sql.SQLSyntaxErrorException: Table 'restaurant_db.menu' doesn't exist
+oct. 18, 2026 4:57:23 PM ErrorHandler show
+WARNING: SQL error: Table 'restaurant_db.menu' doesn't exist
+oct. 18, 2026 5:03:04 PM ErrorHandler show
+WARNING: java.lang.IllegalArgumentException: Invalid email address.
+oct. 19, 2026 1:57:07 PM ErrorHandler show
+WARNING: java.lang.IllegalArgumentException: Menu name cannot be empty.
