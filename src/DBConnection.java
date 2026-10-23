@@ -24,6 +24,6 @@ public final class DBConnection {
         return DriverManager.getConnection(
             get("DB_URL", "db.url", "jdbc:mysql://localhost:3306/restaurant_db?useSSL=false&serverTimezone=UTC&allowPublicKeyRetrieval=true"),
             get("DB_USER", "db.user", "root"),
-            get("DB_PASSWORD", "db.password", "root"));
+            get("DB_PASSWORD", "db.password", ""));
     }
 }

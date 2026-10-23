@@ -3,6 +3,7 @@ import java.sql.Connection;
 import javax.swing.JOptionPane;
 import javax.swing.SwingUtilities;
 
+/** Application launcher; --demo requires no database or external JARs. */
 public class MainDB {
     public static void main(String[] args) {
         boolean demo=false;
