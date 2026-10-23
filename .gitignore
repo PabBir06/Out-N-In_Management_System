@@ -1,0 +1,9 @@
+build/
+*.class
+*.log
+db.properties
+.idea/
+.DS_Store
+out/
+target/
+*.iml
