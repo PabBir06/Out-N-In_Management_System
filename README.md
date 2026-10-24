@@ -352,7 +352,7 @@ In every case the table is left untouched and the application keeps running: the
 
 ---
 
-## 📚 Références
+## 📚 References
 
 - Classes and Lectures *Java Programming* — UCI FALL 2026
 
