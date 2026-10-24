@@ -25,9 +25,9 @@ The application runs in **two interchangeable modes**. In *demo mode* it works e
 |-----|--------|
 | Pablo **BIRAN** | [@PabBir06](https://github.com/PabBir06) |
 | Wacim **HAMDI** | [@wacimH](https://github.com/wacimH) |
-| Sacha **LEVI** | [@PabBir06](https://github.com/PabBir06) |
+| Sacha **LEVI** | N/A |
 | Aaron **JEHCHI** | [@Joeeeemamaa](https://github.com/Joeeeemamaa) |
-| Camille **PICOU** | [@PabBir06](https://github.com/PabBir06) |
+| Camille **PICOU** | N/A |
 
 > 🔗 Github Repository : [github.com/PabBir06/Out-N-In_Management_System](https://github.com/PabBir06/Out-N-In_Management_System)
 
