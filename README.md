@@ -1,6 +1,7 @@
 <div align="center">
 
-# Java Programming — Group 2 — "Out-n-In Management System"
+### Java Programming - Group 2                  
+# "Out-n-In Management System"
 
 **Project EFREI I1 · UCI FALL 2026 · Java Programming**
 
